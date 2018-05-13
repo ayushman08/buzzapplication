@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_546298520bab92165ce02954408c0b196e8391ec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_35632d57e82cba501f225d774b05f972b44e9036\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_34ba6a47157f1737f2854e1151d9eb7345531247\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ebbebd6f6efe4bb6b03e77697a873213c97695ed\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_782de1ecf8c932093506fa7d912dfaa632a44606\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.github.eugeneek\smilebar\v1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1849fb87951d04779ddbe9e255eac2abf8287659">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.eugeneek-smilebar-v1.0.0_c098010cc66ffd9bc2fc379e3dda9e3ed013cdfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_b62582f08a3e6fee9a3581d766d57b97343ba4c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_3057bb8c5e488cc14bad9b8ca5e5aaf5de194dc9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_81374bf9c51a85afe442295afe05ebba5d249363\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_001e9062a25e512d092bd87e408ae955d85ba42a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_304e533ead0d0b3c7cdfcdaff94caf5b9698b824\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_2fde3a898ab36a5b3d71812d9e3da5866a9ed00b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_d3414c4d49c6f1e56e421127f4ab766ee58a70a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_24b082ee1de3da4769134f4855e276a428d83e28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_ab7ba5101a4c26f8271c7d0a0fa9972aedd0980c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\org.adw.library\discrete-seekbar\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7be042dd2aa8157a2b63934902f472952d2ea1fe">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.adw.library-discrete-seekbar-1.0.1_b037f365b0d850e3ab39d48b31a9d18e591b9152\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_f358cec2a6a219a70cde4881ce6addf26704d5d9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_8efdb1b110f077cd1eab52ae7a91b33f864f3ffb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_04a89217e94a1adc4b3fb22be4e9049d6ffd2a69\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_99c8555d5a78c10e27b3aa1228e998ab671a0ffa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="5044999d344efec7feb1e1993c03726c971c0acb">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dbd3d9da8a121744b284e40e1f045c3b5c224d07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_fff4e8944e9d11d8778f15cf2504cd8c3e42031f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.6.1_49e2411f5d2022058e1b0bd4469d9098b1fb9c49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_e222c28a5b0d3ee90b9acbabff5aa9265e3b4222\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_4fae5b74762a0c9a2ee002f3ceed81d08864c73d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_e9cfc05fe3733c2a04c54c5a412241f06227923e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.dgmltn\share-everywhere\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fb056e8488c8ee4a3a245e278cf63f10abe4fd7f">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.dgmltn-share-everywhere-1.0.1_faafcd8512b81544cdf59942224d70fe100dd7ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.2.0_dc29de677d023eff8784e616bda30d02e4764579\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_d670133c65739784df951fd822359731945637bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.sasidhar.smaps.payu\payu\0.0.5\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7c5fc627320a8f13d570fcd024cd032558a3fe6b">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.sasidhar.smaps.payu-payu-0.0.5_f3ec5531f9be2c6cc94ae1d587813d49fed8171f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_23510ef330e55e87cfd7950869f3fcc4d2dc501f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_98618c31c93609db410d4f98addd33a5bb82724c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_d990c9edf528547f5fa7ca73cb76dca549d8a92c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="79316305e4e89095ed7b7523676cb42848953290">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f60bfed6a183d1f3857717d97f149997333e3dc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.16.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="99d79164a8f983161bdb59b1403b9e4a1127aae1">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.16.1_97cb8736d2f3620303977458f8f1121fdae59677\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="73bcbadd2125c5198fa99feb81d2f43a5699be3c">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.lzyzsd-circleprogress-1.2.0_0f532aa06b1ba6cf94fbb37104e9457432264912\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_facf668946235aa5cf40529a3147dfa5f16127f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\org.lucasr.twowayview\twowayview\0.1.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.lucasr.twowayview-twowayview-0.1.4_1478baef1dd313bdd0bf7b319201de8a91686dbf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.daimajia.swipelayout\library\1.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.swipelayout-library-1.2.0_a699b3f89917435f35053003ebd7bad79c29ab9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.sasidhar.smaps.payu\payu\0.0.5\jars\libs\PayU-release.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="046545a6c911fae2b34558a51bf0e25823983c37">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\PayU-release_fa989f1c03483d2c6104a956dd2c83c698cc24ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_937e4050f31b93c148cbf860bec114df9cff7c66\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="C:\Users\Saurabh\Desktop\BuzzApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-23.4.0_4fd4a9fa5dbfe4d2909c39f440f716439870edc5\classes.dex" />
+    </item>
+
+</items>

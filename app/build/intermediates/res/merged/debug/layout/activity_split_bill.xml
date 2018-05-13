@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="10">
+
+  <android.support.v7.widget.Toolbar
+      android:id="@+id/toolbar_drawer_id"
+      android:layout_width="match_parent"
+      android:layout_height="?attr/actionBarSize"
+      android:background="@color/colorDrawerMenu"
+      app:popupTheme="@style/AppTheme.PopupOverlay">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorWhite"
+        android:textSize="20sp"
+        android:text="Split Your Bill"/>
+
+    <RelativeLayout
+        android:layout_width="30dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/toolbar_image_layout"
+        android:layout_gravity="end">
+
+      <ImageView
+          android:layout_width="40dp"
+          android:layout_height="30dp"
+          android:paddingBottom="5dp"
+          android:id="@+id/cart"
+          android:layout_alignParentBottom="true"
+          android:layout_alignParentRight="true"
+          android:layout_alignParentEnd="true"
+          android:src="@drawable/cart_white" />
+
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:id="@+id/toolbar_cart_text"
+
+
+          android:paddingRight="10dp"
+          android:textColor="@color/colorWhite"
+          android:layout_above="@+id/cart"
+          android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+
+  </android.support.v7.widget.Toolbar>
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+      android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_weight="1.5"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/total_amount_txt_id"
+            android:text="Total Amount:"
+            android:textColor="@color/colorBlack"
+            android:textSize="22sp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:background="@drawable/round_corner_edit"
+            android:layout_height="wrap_content"
+            android:id="@+id/total_amount_edit_id"
+            android:textColor="@color/colorButton"
+            android:layout_margin="16dp"
+            android:ems="7"
+            android:inputType="number"
+            android:digits="0123456789"
+            android:text=" ₹  2150 " />
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.01dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@color/colordivider"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose friends for split the bill"
+        android:id="@+id/choose_friends_txt_id"
+        android:layout_gravity="center_horizontal"
+        android:textSize="18sp"
+        android:layout_weight=".5"
+        android:textColor="@color/colorTextDescription" />
+
+  </LinearLayout>
+  </ScrollView>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:fadeScrollbars="false"
+        android:divider="@color/colordivider"
+        android:dividerHeight="0.1dp"
+        android:id="@+id/list_split_bill_id"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="9" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:id="@+id/continue_split_bill_txt_id"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/button_round_save"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:clickable="true"
+        android:onClick="continueSplitButton"
+        android:layout_marginTop="16dp" />
+
+
+</LinearLayout>

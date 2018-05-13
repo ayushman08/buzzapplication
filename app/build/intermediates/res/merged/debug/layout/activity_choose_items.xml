@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorWhite"
+
+    android:layout_weight="10"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_drawer_id"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorDrawerMenu"
+        app:popupTheme="@style/AppTheme.PopupOverlay"
+       >
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:text="Dish"/>
+
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/toolbar_image_layout"
+            android:clickable="true"
+            android:layout_gravity="end">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:paddingBottom="5dp"
+                android:id="@+id/cart"
+
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/cart_white" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/toolbar_cart_text"
+
+                android:paddingRight="10dp"
+                android:textColor="@color/colorWhite"
+                android:layout_above="@+id/cart"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end" >
+
+            <Spinner
+                android:id="@+id/spinner2"
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:spinnerMode="dialog"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+
+               />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+
+                android:src="@drawable/spinner_menu_big"
+
+
+               />
+
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+
+        android:orientation="vertical">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none"
+            android:id="@+id/list"
+            android:divider="@color/colordivider"
+            android:fadeScrollbars="false"
+            android:scrollIndicators="bottom"
+            android:dividerHeight="0.01dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Order Now"
+            android:gravity="center"
+            android:background="@drawable/button_round_save"
+            android:id="@+id/order"
+            android:textColor="@android:color/white"
+            android:textSize="20sp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:clickable="true"
+            android:onClick="orderNow"
+
+
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp" />
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</LinearLayout>

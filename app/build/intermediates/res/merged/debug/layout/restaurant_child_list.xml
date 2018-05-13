@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:id="@+id/restaurant_child_list_id"
+    android:layout_height="wrap_content" android:paddingBottom="10dp"
+    android:paddingTop="10dp">
+
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="120dp"
+
+        android:id="@+id/restaurant_image_id"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="4dp"
+        android:scaleType="fitXY"
+        android:layout_marginLeft="2dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:textColor="@color/colorBlack"
+            android:id="@+id/restaurant_name_id"
+            android:textSize="19sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:id="@+id/restaurant_description_id"
+            android:textColor="@color/colorTextDescription" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+                android:textColor="@color/colorWhite"
+                android:background="@drawable/button_round_save"
+                android:paddingLeft="8dp"
+                android:paddingRight="8dp"
+                android:paddingTop="2dp"
+                android:paddingBottom="2dp"
+                android:textStyle="bold"
+
+                android:id="@+id/open_id"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="5dp" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/gps_id"
+                android:src="@drawable/gps_small"
+                android:layout_marginBottom="5dp" />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="New Text"
+
+                android:textSize="11sp"
+                android:id="@+id/restaurant_distance_id"
+                android:textColor="@color/colorTextDescription"
+                android:layout_marginBottom="5dp" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

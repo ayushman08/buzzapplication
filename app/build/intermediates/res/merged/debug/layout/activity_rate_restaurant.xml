@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:weightSum="10"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_drawer_id"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorDrawerMenu"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:text="Rate Restaurant Services"/>
+
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/toolbar_image_layout"
+            android:layout_gravity="end">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:paddingBottom="5dp"
+                android:id="@+id/cart"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/cart_white" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/toolbar_cart_text"
+
+
+                android:paddingRight="10dp"
+                android:textColor="@color/colorWhite"
+                android:layout_above="@+id/cart"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3.8">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/restaurant_name_id"
+            android:gravity="center"
+            android:textSize="22sp"
+            android:textColor="#151431"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A perfect match with the fragnance of spring under the Mango tree soulful music.We reached here after a pleasant stroll from the lake only to find out how pretty the place was."
+            android:id="@+id/textView14"
+            android:textColor="@color/colorTextDescription"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:textSize="10sp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Please rate our these restaurant services"
+            android:id="@+id/textView15"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textColor="@color/colorButton"
+            android:textSize="14sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your feedback will be very useful for us"
+            android:id="@+id/textView16"
+            android:textColor="@color/colorTextDescription"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:textSize="11sp" /> </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5.6">
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@color/colordivider"
+            android:fadeScrollbars="false"
+            android:scrollbarSize="20dp"
+            android:dividerHeight="0.1dp"
+            android:id="@+id/rate_List"
+            android:paddingRight="10dp"
+            android:layout_marginLeft="10dp" />
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:id="@+id/continue_txt_id"
+        android:background="@drawable/button_round"
+        android:gravity="center"
+        android:textColor="@color/colorWhite"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/my_profile_id"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:cardview="http://schemas.android.com/tools">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text=""
+        android:id="@+id/status"
+        android:visibility="gone" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/profile_img_id"
+                android:layout_gravity="center_horizontal"
+                android:onClick="Edit"
+                android:clickable="true"
+                android:src="@drawable/profile"
+                android:layout_margin="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lorem ipsum dolor sit amet,consectetuer adipiscing elit."
+                android:textColor="#fff"
+
+                android:id="@+id/profile_txt_id"
+                android:layout_gravity="center_horizontal"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Aenean commod ligula eget dolor."
+                android:textColor="#fff"
+                android:id="@+id/profile_txt2_id"
+                android:gravity="center"
+                android:textSize="12sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="First Name"
+                android:drawablePadding="3dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+
+                android:background="@drawable/profile_drawable_corner"
+                android:textColor="@color/colorWhite"
+                android:id="@+id/first_name_txt_id"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:paddingLeft="10dp"
+                android:paddingStart="10dp"
+                android:gravity="center_vertical" />
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:layout_marginStart="16dp"
+                app:cardBackgroundColor="@color/colorDrawerMenu"
+                android:layout_marginBottom="5dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:textColor="#000"
+                android:background="@drawable/edit_round_corner"
+                android:id="@+id/first_name_edit_id"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+
+                android:gravity="center_vertical" />
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorWhite"
+                android:drawablePadding="3dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+
+                android:background="@drawable/profile_drawable_corner"
+                android:text="Last Name"
+                android:id="@+id/last_name_txt_id"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:paddingStart="10dp"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical" />
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+
+                android:layout_marginStart="16dp"
+                app:cardBackgroundColor="@color/colorDrawerMenu"
+                android:layout_marginBottom="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:textColor="#000"
+
+                android:background="@drawable/edit_round_corner"
+                android:id="@+id/last_name_edit_id"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+
+                android:gravity="center_vertical" />
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mobile Number"
+                android:drawablePadding="3dp"
+                android:paddingBottom="5dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:textColor="@color/colorWhite"
+                android:background="@drawable/profile_drawable_corner"
+                android:id="@+id/mobile_no_txt_id"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:paddingTop="5dp"
+                android:paddingLeft="10dp"
+                android:paddingStart="10dp"
+                android:gravity="center_vertical" />
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+
+                android:layout_marginStart="16dp"
+                app:cardBackgroundColor="@color/colorDrawerMenu"
+                android:layout_marginBottom="5dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:digits="0123456789."
+                android:inputType="numberDecimal"
+
+                android:textColor="#000"
+                android:background="@drawable/edit_round_corner"
+                android:id="@+id/mobile_no_edit_id"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:gravity="center_vertical" />
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Mail Id"
+                android:drawablePadding="3dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:textColor="@color/colorWhite"
+                android:background="@drawable/profile_drawable_corner"
+                android:id="@+id/mail_txt_id"
+
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:paddingStart="10dp"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical" />
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="16dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+
+                android:layout_marginStart="16dp"
+               app:cardBackgroundColor="@color/colorDrawerMenu">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+
+                android:textColor="#000"
+                android:id="@+id/mail_edit_id"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginLeft="3dp"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="3dp"
+                android:layout_marginTop="3dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:background="@drawable/edit_round_corner"
+                android:gravity="center_vertical" />
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+
+</LinearLayout>

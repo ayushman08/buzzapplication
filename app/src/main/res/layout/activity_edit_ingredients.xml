@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/edit_ingredients_id"
+    android:background="@color/colorWhite"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_drawer_id"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorDrawerMenu"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:text="Activity"/>
+
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/toolbar_image_layout"
+            android:layout_gravity="end">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:paddingBottom="5dp"
+                android:id="@+id/cart"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/cart_white" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/toolbar_cart_text"
+
+
+                android:paddingRight="10dp"
+                android:textColor="@color/colorWhite"
+                android:layout_above="@+id/cart"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="Your Age"
+            android:id="@+id/age_txt_id"
+            android:layout_weight="0.5"
+            android:padding="16dp"
+            android:textColor="@color/colorBlack"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:text="24 Years"
+            android:id="@+id/age_edit_txt_id"
+            android:layout_weight="0.3"
+            android:gravity="end"
+            android:textColor="@color/colorTextDescription"
+            android:paddingTop="16dp"
+            android:paddingBottom="16dp" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/age_edit_img_id"
+            android:layout_weight="0.2"
+            android:padding="16dp"
+            android:layout_gravity="center"
+            android:src="@drawable/edit" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+
+        android:background="#ff2d55">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Liked Ingredients"
+            android:id="@+id/like_ingredients_id"
+            android:padding="16dp"
+            android:layout_weight="0.5"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Disliked Ingredients"
+            android:id="@+id/dislike_ingredients_id"
+            android:padding="16dp"
+            android:layout_weight="0.5"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/add_ingredient_Layout"
+        android:layout_gravity="center_horizontal"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Add ingredients"
+            android:id="@+id/add_ingredients_txt_id"
+            android:layout_weight=".4"
+            android:textColor="@color/colorTextDescription"
+            android:layout_gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/add_img_id"
+            android:layout_weight=".1"
+            android:src="@drawable/addicon"
+            android:layout_gravity="center|left"
+            android:padding="5dp"
+            android:layout_marginRight="5dp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Add ingredients"
+            android:id="@+id/add_ingredients2_txt_id"
+            android:layout_weight=".4"
+            android:textColor="@color/colorTextDescription"
+            android:layout_gravity="center_vertical"
+            android:paddingLeft="16dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/add_img2_id"
+            android:layout_weight=".1"
+            android:src="@drawable/addicon"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:layout_marginRight="5dp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <ListView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/add_ingredients_list_id"
+
+            android:layout_weight="0.5"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="5dp" />
+
+        <ListView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/add_ingredients2_list_id"
+            android:layout_weight="0.5"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="5dp" />
+    </LinearLayout>
+
+
+</LinearLayout>

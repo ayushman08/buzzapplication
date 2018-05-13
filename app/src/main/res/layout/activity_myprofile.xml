@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/my_profile_id"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical"
+    android:background="@drawable/bgggg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_drawer_id"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorDrawerMenu"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:text="Profile"/>
+
+        <RelativeLayout
+            android:layout_width="30dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/toolbar_image_layout"
+            android:layout_gravity="end">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:paddingBottom="5dp"
+                android:id="@+id/cart"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/cart_white" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/toolbar_cart_text"
+
+
+                android:paddingRight="10dp"
+                android:textColor="@color/colorWhite"
+                android:layout_above="@+id/cart"
+                android:layout_alignParentRight="true"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="edit"
+            android:id="@+id/edit"
+            android:textColor="#000000"
+            android:layout_margin="20dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="save"
+            android:id="@+id/save"
+            android:layout_margin="20dp"
+            android:textColor="#000000" />
+
+    </LinearLayout>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/profile_img_id"
+        android:layout_gravity="center_horizontal"
+        android:onClick="Edit"
+        android:clickable="true"
+        android:src="@drawable/profile"
+        android:layout_margin="10dp"
+        android:visibility="gone" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/profile_container"
+        ></LinearLayout>
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group   android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_id"
+            android:title="Home"
+            android:icon="@drawable/drawer_home"
+            android:checked="true"/>
+    </group>
+
+    <group  android:checkableBehavior="single" >
+          <item
+            android:id="@+id/nav_my_profile_id"
+            android:title="My Profile"
+            android:icon="@drawable/drawer_profile"
+            android:checked="true"
+            ></item>
+    </group>
+
+
+
+
+
+
+        <item
+            android:checkableBehavior="single"
+            android:id="@+id/nav_recipe_id"
+            android:title="Recipe"
+            android:icon="@drawable/drawer_recipe"
+            android:checked="true"/>
+
+
+
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Like_id"
+            android:title="Ingredients"
+            android:icon="@drawable/drawer_ingredients"
+            android:checked="true"></item>
+    </group>
+
+
+
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cart"
+            android:title="Cart"
+            android:icon="@drawable/cart_white"
+            android:checked="true"></item>
+    </group>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <group   android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_log_out_id"
+            android:title="Logout"
+
+            android:icon="@drawable/logout"
+            android:checked="true"></item>
+
+    </group>:
+    <group   android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_log_in_id"
+            android:title="Login"
+            android:icon="@drawable/login"
+            android:checked="true"></item>
+
+    </group>
+
+
+
+
+
+
+</menu>

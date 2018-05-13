@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "674286610482",
+    "firebase_url": "https://buzz-9e292.firebaseio.com",
+    "project_id": "buzz-9e292",
+    "storage_bucket": "buzz-9e292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674286610482:android:e4b65185689712cd",
+        "android_client_info": {
+          "package_name": "com.cresol.buzzapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674286610482-0l8o9k2vh1uljqinhjkchferfpnfhh8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cresol.buzzapplication",
+            "certificate_hash": "24B2CA490251422584E0AF9664A3C56BA30EA0A2"
+          }
+        },
+        {
+          "client_id": "674286610482-4ts852ojraudqhgvhs0gm711tk52l8iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VvFkLhQs_v2TGfZ8yvU5G2WcLEKCdfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674286610482-4ts852ojraudqhgvhs0gm711tk52l8iq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

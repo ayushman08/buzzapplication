@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pf_bg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\pf_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_corner_dark_bg.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\edit_corner_dark_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rs_very_small_red.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rs_very_small_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find_recipeimg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\find_recipeimg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\momo_cafe_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\momo_cafe_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_white.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\star_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\visa.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\visa.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rail_coach_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rail_coach_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sv__list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.dgmltn\\share-everywhere\\1.0.1\\res\\drawable\\sv__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\top_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mail.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\mail.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rs_very_small_yellow.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rs_very_small_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\button_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buzz_watermark.jpg",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buzz_watermark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttoncornerf.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buttoncornerf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\amex.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\amex.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spiner_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\spiner_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipes_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\recipes_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_profile.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diners.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\diners.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\googlepls.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\googlepls.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_menu_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\edit_menu_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jcb.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\jcb.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\about_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yrsml.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\yrsml.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trash.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgggg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\bgggg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_background.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\sign_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\resto_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\resto_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_menu_ing.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\add_menu_ing.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hand.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\hand.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_img_4.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\food_img_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile_rate_5.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.github.eugeneek\\smilebar\\v1.0.0\\res\\drawable\\smile_rate_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\likes_ingredients_bg.jpg",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\likes_ingredients_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_text_plain.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\edit_text_plain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_show_shadow_border.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\button_show_shadow_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\too_high_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\too_high_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\commonbg.jpg",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\commonbg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipe_1.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\recipe_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_yellow_big.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_yellow_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile_rate_none.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.github.eugeneek\\smilebar\\v1.0.0\\res\\drawable\\smile_rate_none.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sv__list_selector_holo_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.dgmltn\\share-everywhere\\1.0.1\\res\\drawable\\sv__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_menu.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\spinner_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_match_recipe.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\gradient_match_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buzz_back.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buzz_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_bottom.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\border_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\facebook_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_yellow_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_yellow_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\google_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\google_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\maestro.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\maestro.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\half_star.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\half_star.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ok.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gps_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\gps_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\five.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\googleicon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\googleicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\password_menu_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\password_menu_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\googlep.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\googlep.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\credit.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\credit.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smily_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\smily_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buz_bg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buz_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupay.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\rupay.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\laser.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\laser.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sagar_gaire_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\sagar_gaire_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttoncorner.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buttoncorner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_white_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_white_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipe_2.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\recipe_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_unfill.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\check_box_unfill.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile_rate_4.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.github.eugeneek\\smilebar\\v1.0.0\\res\\drawable\\smile_rate_4.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\y_png.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\y_png.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_fill.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\check_box_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\images.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\images.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addicon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\addicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cart_white.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\cart_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_ingredients.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_ingredients.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_dish_gradient.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\color_dish_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_small_size.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_small_size.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\color_above_img_gradient.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\color_above_img_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\discover.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\discover.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sv__list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.dgmltn\\share-everywhere\\1.0.1\\res\\drawable\\sv__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_img_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawable_img_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_item_bg.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_menu_item_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\none.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\none.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_red_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_red_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_border.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sv__list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.dgmltn\\share-everywhere\\1.0.1\\res\\drawable\\sv__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mastercard.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.sasidhar.smaps.payu\\payu\\0.0.5\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile_rate_3.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.github.eugeneek\\smilebar\\v1.0.0\\res\\drawable\\smile_rate_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_save.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\button_round_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_large_size.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_large_size.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_small_size_yellow.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_small_size_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign_bg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\sign_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_img_1.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\food_img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_large_size_yellow.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_large_size_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bird.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\bird.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_ratingbar.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawable_ratingbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\name.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\as.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\as.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_unfill_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\check_box_unfill_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buzz_img_background.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buzz_img_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\googleplus.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\googleplus.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\backg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_fill_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\check_box_fill_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinnerdropdown_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\spinnerdropdown_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star_yellow.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\star_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharewhite.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\sharewhite.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile_rate_2.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.github.eugeneek\\smilebar\\v1.0.0\\res\\drawable\\smile_rate_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buzzicon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\buzzicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_bg_color.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_menu_bg_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_home.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.16.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\find_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\magnifier.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\magnifier.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_recipe.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_recipe.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\too_high_small.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\too_high_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_spinner.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawable_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_edit.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\round_corner_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_check_box.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawable_check_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\more_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_round_corner.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\edit_round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_selector.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\check_box_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebookicon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\facebookicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_menu_big.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\spinner_menu_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_red_big.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_red_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_img_3.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\food_img_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rupees_white_big.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\rupees_white_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\profile_drawable_corner.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\profile_drawable_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_img_5.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\food_img_5.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food_img_2.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\food_img_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_text_color.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\drawer_menu_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipe_3.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\recipe_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signup_bg.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\signup_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipe_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\recipe_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recipe_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\recipe_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_icon.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\clock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wind_waves_img.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\src\\main\\res\\drawable\\wind_waves_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smile_rate_1.png",
+        "source": "C:\\Users\\Saurabh\\Desktop\\BuzzApplication\\app\\build\\intermediates\\exploded-aar\\com.github.eugeneek\\smilebar\\v1.0.0\\res\\drawable\\smile_rate_1.png"
+    }
+]

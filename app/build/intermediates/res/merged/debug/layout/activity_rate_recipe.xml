@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+     <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_drawer_id"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorDrawerMenu"
+        app:popupTheme="@style/AppTheme.PopupOverlay">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/colorWhite"
+            android:textSize="20sp"
+            android:text="Rate Recipe"/>
+
+     </android.support.v7.widget.Toolbar>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:scrollbars="none"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:padding="16dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="*********"
+        android:textColor="@color/colorBlack"
+        android:id="@+id/dishName"
+        android:layout_gravity="center"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please rate  dish"
+        android:id="@+id/rate_txt_id"
+        android:layout_gravity="center"
+        android:textColor="@color/colorTextDescription"
+        android:textSize="15sp"
+        android:layout_marginBottom="10dp" />
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Salt"
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:gravity="center|center_vertical|left"
+                android:textStyle="bold|italic"
+                android:layout_weight=".5" />
+            <LinearLayout
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5">
+                <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:dsb_min="1"
+                    app:dsb_max="100"
+                    />
+
+                <RelativeLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="TOO LOW"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PERFECT"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+
+                        android:layout_gravity="center"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+
+                        android:paddingTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="TOO HIGH"
+                        android:textColor="@color/colorButton"
+                        android:layout_gravity="right"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        android:textSize="10dp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/colordivider"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Sweet"
+                android:gravity="center_vertical|left"
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:textStyle="bold|italic"
+                android:layout_weight=".5" />
+            <LinearLayout
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5">
+                <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:dsb_min="1"
+                    app:dsb_max="100"
+                    />
+
+                <RelativeLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="TOO LOW"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PERFECT"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+
+                        android:layout_gravity="center"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+
+                        android:paddingTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="TOO HIGH"
+                        android:textColor="@color/colorButton"
+                        android:layout_gravity="right"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        android:textSize="10dp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/colordivider"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Sour"
+                android:gravity="center_vertical|left"
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:textStyle="bold|italic"
+                android:layout_weight=".5" />
+            <LinearLayout
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5">
+                <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:dsb_min="1"
+                    app:dsb_max="100"
+                    />
+
+                <RelativeLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="TOO LOW"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PERFECT"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+
+                        android:layout_gravity="center"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+
+                        android:paddingTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="TOO HIGH"
+                        android:textColor="@color/colorButton"
+                        android:layout_gravity="right"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        android:textSize="10dp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/colordivider"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Bitter"
+                android:gravity="center_vertical|left"
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:textStyle="bold|italic"
+                android:layout_weight=".5" />
+            <LinearLayout
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5">
+                <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:dsb_min="1"
+                    app:dsb_max="100"
+                    />
+
+                <RelativeLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="TOO LOW"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PERFECT"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+
+                        android:layout_gravity="center"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+
+                        android:paddingTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="TOO HIGH"
+                        android:textColor="@color/colorButton"
+                        android:layout_gravity="right"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        android:textSize="10dp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:background="@color/colordivider"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Umami"
+                android:gravity="center_vertical|left"
+                android:textSize="18sp"
+                android:textColor="#000000"
+                android:textStyle="bold|italic"
+                android:layout_weight=".5" />
+            <LinearLayout
+                android:layout_width="0dp"
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.5">
+                <org.adw.library.widgets.discreteseekbar.DiscreteSeekBar
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:dsb_min="1"
+                    app:dsb_max="100"
+                    />
+
+                <RelativeLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:text="TOO LOW"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="PERFECT"
+                        android:textStyle="bold"
+                        android:textColor="@color/colorButton"
+                        android:textSize="10dp"
+
+                        android:layout_gravity="center"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerHorizontal="true"
+
+                        android:paddingTop="5dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:text="TOO HIGH"
+                        android:textColor="@color/colorButton"
+                        android:layout_gravity="right"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentEnd="true"
+                        android:paddingTop="5dp"
+                        android:textStyle="bold"
+                        android:textSize="10dp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:id="@+id/Continue_txt_id"
+        android:layout_gravity="center"
+        android:background="@drawable/button_round_save"
+        android:layout_margin="16dp"
+        android:padding="10dp"
+        android:textColor="@color/colorWhite"
+        android:gravity="center"
+        android:clickable="true"
+        android:onClick="continueButton"
+        android:textSize="20sp" />
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>

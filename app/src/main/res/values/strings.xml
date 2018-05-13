@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">BuzzApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="BuzzName">Buzz !</string>
+    <string name="Buzz_Description">A simple  &amp; smart app that helps you find the perfect recipe. </string>
+    <string name="SignUp_Google">Sign up with Google</string>
+    <string name="SignUp_Facebook">Sign up with Facebook</string>
+    <string name="Skip_Text">Skip! Move to next screen</string>
+    <string name="Home_Name">Home</string>
+    <string name="Home_Description">Best place to find recipe &amp; restaurants as per your choice</string>
+    <string name="Home_Description_two">Across Delhi NCR, Mumbai, Bangalore, Hyderabad etc</string>
+    <string name="Awesome">Awesome, Welcome!</string>
+    <string name="Awesome_Description">We have helped many people to search restaurants and recipes of real food.</string>
+    <string name="Recipe">See Recipes</string>
+    <string name="FindRestaurant">Find Restaurants</string>
+    <string name="Own_recipe">Create Your own Recipe</string>
+    <string name="More">More</string>
+    <string name="RecipeText">Recipe</string>
+    <string name="Achari">Achari Paneer Tikka</string>
+    <string name="facebook_app_id">1924605534433253</string>
+    <string name="ApiAddress">http://buzzbackend.justevent.in/slimApi/API.php/</string>
+
+        <string-array name="spinnerItems">
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+            <item>5</item>
+            <item>6</item>
+            <item>7</item>
+            <item>11</item>
+            <item>12</item>
+            <item>13</item>
+            <item>14</item>
+            <item>15</item>
+            <item>16</item>
+            <item>17</item>
+            <item>18</item>
+            <item>19</item>
+        </string-array>
+
+</resources>

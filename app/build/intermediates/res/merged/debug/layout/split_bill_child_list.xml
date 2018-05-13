@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:orientation="horizontal"
+    android:weightSum="2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_weight="1.9"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:textSize="20sp"
+        android:id="@+id/split_bill_list_txt_id"
+        android:textColor="@color/colorBlack"
+        android:padding="10dp" />
+
+    <android.support.v7.widget.AppCompatCheckBox
+        android:layout_width="wrap_content"
+
+        app:buttonTint="@color/colorGreen"
+        android:layout_height="wrap_content"
+        android:id="@+id/split_bill_list_checkbox_id"
+        android:clickable="true"
+       />
+</LinearLayout>

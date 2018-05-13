@@ -1,0 +1,119 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <declare-styleable name="CircleProgress">
+        <attr name="circle_progress" format="integer"/>
+        <attr name="circle_max" format="integer"/>
+        <attr name="circle_unfinished_color" format="color"/>
+        <attr name="circle_finished_color" format="color"/>
+        <attr name="circle_text_size" format="dimension"/>
+        <attr name="circle_text_color" format="color"/>
+        <attr name="circle_prefix_text" format="string"/>
+        <attr name="circle_suffix_text" format="string"/>
+    </declare-styleable>
+    <style name="TwoWayView">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent </item>
+
+
+
+
+    </style>
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/colorGreen</item>
+        <item name="colorControlActivated">@color/colorDrawerMenu</item>
+    </style>
+    <style name="NoTitle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:spinnerItemStyle">@style/SpinnerItemTheme</item>
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+
+    </style>
+
+
+    <style name="RobotoTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">Raleway-Regular</item>
+    </style>
+
+    <style name="RobotoButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">Raleway-Regular</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Change text size of navigation menu items in drawer,we make a customise theme to change size -->
+
+    <style name="NavigationDrawerStyle">
+        <item name="android:textSize">20sp</item><!-- text size in menu-->
+
+        <item name="android:listPreferredItemHeightLarge">80dp</item>
+    </style>
+
+
+
+
+    <style name="foodRatingBar" parent="@android:style/Widget.RatingBar">
+
+        <item name="android:minHeight">22dip</item>
+        <item name="android:maxHeight">22dip</item>
+    </style>
+
+    <style name="Widget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+
+    <style name="Widget.ShareView">
+        <item name="sv_shareViewHeight">@dimen/sv__preferred_height</item>
+        <item name="sv_frameBackground">@drawable/sv__border_dark</item>
+        <item name="sv_dividerDrawable">@drawable/sv__list_divider_holo_dark</item>
+        <item name="sv_buttonDrawable">@drawable/sv__ic_menu_share_holo_dark</item>
+        <item name="sv_buttonBackground">@drawable/sv__list_selector_holo_dark</item>
+        <item name="sv_popupBackground">@drawable/sv__menu_dropdown_panel_holo_dark</item>
+        <item name="sv_popupSelector">@drawable/sv__list_selector_holo_dark</item>
+        <item name="sv_popupDivider">@drawable/sv__list_divider_holo_dark</item>
+        <item name="sv_popupTextColor">#f3f3f3</item>
+        <item name="sv_favoriteDisplayed">true</item>
+    </style>
+
+    <!-- This is the same as Widget.ShareView -->
+    <style name="Widget.ShareView.Dark" />
+
+    <style name="Widget.ShareView.Dark.Simple">
+        <item name="sv_favoriteDisplayed">false</item>
+    </style>
+
+    <style name="Widget.ShareView.Light">
+        <item name="sv_frameBackground">@drawable/sv__border_light</item>
+        <item name="sv_dividerDrawable">@drawable/sv__list_divider_holo_light</item>
+        <item name="sv_buttonDrawable">@drawable/sv__ic_menu_share_holo_light</item>
+        <item name="sv_buttonBackground">@drawable/sv__list_selector_holo_light</item>
+        <item name="sv_popupBackground">@drawable/sv__menu_dropdown_panel_holo_light</item>
+        <item name="sv_popupSelector">@drawable/sv__list_selector_holo_light</item>
+        <item name="sv_popupDivider">@drawable/sv__list_divider_holo_light</item>
+        <item name="sv_popupTextColor">#000000</item>
+    </style>
+    <style name="SpinnerItemTheme"
+        parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:divider">#ffffff</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:background">@color/colorDrawerMenu</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">15dp</item>
+
+    </style>
+    <style name="Widget.ShareView.Light.Simple">
+        <item name="sv_favoriteDisplayed">false</item>
+    </style>
+</resources>

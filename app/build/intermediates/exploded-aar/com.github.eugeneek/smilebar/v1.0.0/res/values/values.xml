@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmileBar"><attr format="dimension" name="smileWidth"/><attr format="dimension" name="smileHeight"/><attr format="dimension" name="horizontalSpacing"/><attr format="boolean" name="enabled"/><attr format="integer" name="rating"/><attr format="reference" name="smileDefault"/><attr format="reference" name="smileRate1"/><attr format="reference" name="smileRate2"/><attr format="reference" name="smileRate3"/><attr format="reference" name="smileRate4"/><attr format="reference" name="smileRate5"/></declare-styleable>
+    <string name="app_name">SmileBar</string>
+</resources>

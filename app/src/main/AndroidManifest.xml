@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.cresol.buzzapplication">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+
+    <uses-sdk tools:overrideLibrary="org.lucasr.twowayview, org.lucasr.twowayview.widget, jp.wasabeef.recyclerview" />
+
+    <application
+
+        android:theme="@style/AppTheme"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:largeHeap="true"
+
+        >
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        <activity android:name=".activity.OrderConfirmationActivity" android:screenOrientation="portrait"   android:theme="@style/NoTitle"    ></activity>
+        <activity android:name=".activity.CreateRecipeActivity"  android:screenOrientation="portrait"   android:theme="@style/NoTitle"  ></activity>
+        <activity android:name=".activity.SplitBillActivity" android:screenOrientation="portrait"   android:theme="@style/NoTitle"  ></activity>
+        <activity android:name=".activity.RecipeMatchedActivity"  android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.RecipeActivity"  android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.RateRecipeActivity"  android:screenOrientation="portrait"   android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.MyProfileActivity"  android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.LikeActivity"  android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.EditIngredientsActivity"   android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.HomeActivity"  android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.DishesActivity"   android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.RateRestaurantActivity"   android:screenOrientation="portrait"  android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.YourOrderActivity"  android:screenOrientation="portrait"   android:theme="@style/NoTitle"></activity>
+        <activity android:name=".activity.RestaurantActivity"  android:screenOrientation="portrait" android:theme="@style/NoTitle" ></activity>
+        <activity android:name=".drawer.DrawerActivity"  android:screenOrientation="portrait" android:theme="@style/NoTitle" ></activity>
+        <activity android:name=".activity.PayUMoneyActivity"  android:screenOrientation="portrait" android:theme="@style/NoTitle" ></activity>
+
+        <activity android:name=".activity.SignupActivity"    android:theme="@style/NoTitle" android:screenOrientation="portrait">
+
+
+
+
+        </activity>
+
+        <activity android:name=".activity.SplashActivity"   android:theme="@style/NoTitle" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+
+        </activity>
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name"
+            tools:replace="android:theme,android:label"
+
+
+
+            />
+        <activity android:name=".activity.PaymentActivity"    android:screenOrientation="portrait">
+
+
+        </activity>
+
+        <service
+            android:name=".util.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name=".MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
+    </application>
+
+</manifest>

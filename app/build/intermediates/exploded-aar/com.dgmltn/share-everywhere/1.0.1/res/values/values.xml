@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/doug/Documents/Android-ShareEverywhere/share-everywhere/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr format="reference" name="shareViewStyle"/>
+    <!-- From: file:/Users/doug/Documents/Android-ShareEverywhere/share-everywhere/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="transparent_dark">#80000000</color>
+    <color name="transparent_light">#40000000</color>
+    <declare-styleable name="ShareView"><attr format="dimension" name="sv_shareViewHeight"/><attr format="reference" name="sv_frameBackground"/><attr format="reference" name="sv_dividerDrawable"/><attr format="reference" name="sv_buttonDrawable"/><attr format="reference" name="sv_buttonBackground"/><attr format="reference" name="sv_popupBackground"/><attr format="reference" name="sv_popupSelector"/><attr format="reference" name="sv_popupDivider"/><attr format="reference|color" name="sv_popupTextColor"/><attr format="boolean" name="sv_favoriteDisplayed"/></declare-styleable>
+    <!-- From: file:/Users/doug/Documents/Android-ShareEverywhere/share-everywhere/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="sv__activity_icon_size">32dp</dimen>
+    <dimen name="sv__preferred_dialog_width">320dp</dimen>
+    <dimen name="sv__preferred_dropdown_item_height">48dp</dimen>
+    <dimen name="sv__preferred_height">48dp</dimen>
+    <!-- From: file:/Users/doug/Documents/Android-ShareEverywhere/share-everywhere/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Choose_an_application">Choose an application</string>
+    <string name="See_all___">See all...</string>
+    <!-- From: file:/Users/doug/Documents/Android-ShareEverywhere/share-everywhere/res/values/theme.xml -->
+    <eat-comment/>
+    <style name="SampleTheme" parent="@android:style/Theme">
+        <item name="shareViewStyle">@style/Widget.ShareView.Dark</item>
+    </style>
+    <style name="SampleTheme.Light" parent="@android:style/Theme.Light">
+        <item name="shareViewStyle">@style/Widget.ShareView.Light</item>
+    </style>
+    <!-- From: file:/Users/doug/Documents/Android-ShareEverywhere/share-everywhere/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Widget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style>
+    <style name="Widget.ShareView">
+        <item name="sv_shareViewHeight">@dimen/sv__preferred_height</item>
+        <item name="sv_frameBackground">@drawable/sv__border_dark</item>
+        <item name="sv_dividerDrawable">@drawable/sv__list_divider_holo_dark</item>
+        <item name="sv_buttonDrawable">@drawable/sv__ic_menu_share_holo_dark</item>
+        <item name="sv_buttonBackground">@drawable/sv__list_selector_holo_dark</item>
+        <item name="sv_popupBackground">@drawable/sv__menu_dropdown_panel_holo_dark</item>
+        <item name="sv_popupSelector">@drawable/sv__list_selector_holo_dark</item>
+        <item name="sv_popupDivider">@drawable/sv__list_divider_holo_dark</item>
+        <item name="sv_popupTextColor">#f3f3f3</item>
+        <item name="sv_favoriteDisplayed">true</item>
+    </style>
+    <style name="Widget.ShareView.Dark"/>
+    <style name="Widget.ShareView.Dark.Simple">
+        <item name="sv_favoriteDisplayed">false</item>
+    </style>
+    <style name="Widget.ShareView.Light">
+        <item name="sv_frameBackground">@drawable/sv__border_light</item>
+        <item name="sv_dividerDrawable">@drawable/sv__list_divider_holo_light</item>
+        <item name="sv_buttonDrawable">@drawable/sv__ic_menu_share_holo_light</item>
+        <item name="sv_buttonBackground">@drawable/sv__list_selector_holo_light</item>
+        <item name="sv_popupBackground">@drawable/sv__menu_dropdown_panel_holo_light</item>
+        <item name="sv_popupSelector">@drawable/sv__list_selector_holo_light</item>
+        <item name="sv_popupDivider">@drawable/sv__list_divider_holo_light</item>
+        <item name="sv_popupTextColor">#000000</item>
+    </style>
+    <style name="Widget.ShareView.Light.Simple">
+        <item name="sv_favoriteDisplayed">false</item>
+    </style>
+</resources>
